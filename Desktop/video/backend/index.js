@@ -1,14 +1,24 @@
-const express = require("express")
-const cors = require('cors')
-const mongoose = require('mongoose')
-const PORT =4000
+const express = require("express");
+const mongoose = require("mongoose");
+const app = express();
+
+const mongodbUri = "mongodb+srv://kissak654:video@cluster0.hzo9i.mongodb.net/video"
+const PORT=4000;
 
 
-const app = express()
+mongoose.connect(mongodbUri, {
+    useNewUrlParser:true,
+    useUnifiedTopology: true,
 
+});
+mongoose.connection.on("Connected", () =>{
+    console.log('connexion a mongodb');
+});
 
-app.listen(4000, () =>{
-    console.log(`Server lancé sur le port  http://localhost:${PORT}`)
+mongoose.connection.on("error", (err) =>{
+    console.log('errur mongodb', err)
+});
+
+app.listen(4000, ()=>{
+    console.log(`Server connecter au port http://localhost:${PORT}`)
 })
-
-

@@ -14431,3 +14431,603 @@
 14:29:53.544 ERR! host uncaught exception: No clients connected
 14:41:41.109 ERR! host uncaught exception: No clients connected
 15:04:06.519 ERR! host uncaught exception: No clients connected
+15:46:47.075 info host scheduling tools patching
+15:46:49.085 info host looking for tools to patch
+15:46:50.990 info host found 7 tool file(s) to patch
+15:46:51.064 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\index.js
+15:46:51.066 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\webpack.js
+15:46:51.067 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+15:46:51.070 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest\bin\jest.js
+15:46:51.071 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest-runner\build\testWorker.js
+15:46:51.304 info host Host's startup and patch time: 8891382 ms
+15:47:16.961 info host scheduling tools patching
+15:47:18.962 info host looking for tools to patch
+15:47:19.655 info host found 7 tool file(s) to patch
+15:47:19.659 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\index.js
+15:47:19.659 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\webpack.js
+15:47:19.660 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+15:47:19.662 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest\bin\jest.js
+15:47:19.662 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest-runner\build\testWorker.js
+15:47:19.798 info host Host's startup and patch time: 8919877 ms
+15:47:24.050 info host scheduling tools patching
+15:47:24.174 info host scheduling tools patching
+15:47:26.176 info host looking for tools to patch
+15:47:27.039 info host found 7 tool file(s) to patch
+15:47:27.043 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\index.js
+15:47:27.044 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\webpack.js
+15:47:27.045 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+15:47:27.047 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest\bin\jest.js
+15:47:27.048 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest-runner\build\testWorker.js
+15:47:27.166 info host Host's startup and patch time: 8927245 ms
+16:11:39.647 info extension stopping host
+16:11:41.716 info host ------------ starting ------------
+16:11:42.728 info host worker Starting Host Worker...
+16:11:44.608 info extension host process output: port:[61895]
+16:11:44.608 info extension 
+16:11:44.794 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61895 }
+16:11:46.150 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\dell\\desktop\\immobilier\\api\\index.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\api\\controllers\\auth.controller.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\components\\contact.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\api\\controllers\\listing.controller.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\createlisting.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\components\\oauth.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\home.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\components\\updatelisting.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\profile.jsx","autoLogPoints":[{"range":{"startLine":212,"endLine":212,"startColumn":0,"endColumn":0}}],"reason":"autoLogPoints"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\signin.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\signup.jsx","reason":"search"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\pages\\Signin.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\firebase.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\components\\Contact.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\components\\Header.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723389099690}
+16:11:46.224 info host starting tools discovery and integration
+16:11:46.379 info host looking for tools to patch
+16:11:51.311 info host found 2 tool file(s) to patch
+16:11:51.333 info host patching c:\users\dell\desktop\immobilier\client\node_modules\vite\bin\vite.js
+16:11:51.438 info host Host's startup and patch time: 11747 ms
+16:11:51.441 info host completed tools discovery and integration
+16:11:51.480 ERR! host uncaught exception: No clients connected
+16:12:30.694 info buildHook-14564 installing build hook for vite at c:\users\dell\desktop\immobilier\client, node v20.15.1
+16:12:30.714 info buildHook-14564 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+16:12:30.714 info buildHook-14564 running tools: vite
+16:12:30.722 info buildHook-14564 installing fs interceptor
+16:12:30.734 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 61895 }
+16:12:30.815 info buildHook-14564 file processed (stat): 3 log points, error handler: false, network logging handler: false
+16:12:30.877 info buildHook-14564 file processed (stat): 1 log points, error handler: false, network logging handler: false
+16:12:30.901 info buildHook-14564 file processed (stat): 1 log points, error handler: false, network logging handler: false
+16:12:30.953 info buildHook-14564 file processed (stat): 1 log points, error handler: false, network logging handler: false
+16:12:31.047 info buildHook-14564 file processed (stat): 2 log points, error handler: false, network logging handler: false
+16:12:31.057 info buildHook-14564 file processed (stat): 1 log points, error handler: false, network logging handler: false
+16:12:31.087 info buildHook-14564 file processed (stat): 3 log points, error handler: false, network logging handler: false
+16:12:31.150 info buildHook-14564 file processed (stat): 2 log points, error handler: false, network logging handler: false
+16:12:31.174 info buildHook-14564 file processed (stat): 1 log points, error handler: false, network logging handler: false
+16:12:31.187 info buildHook-14564 file processed (stat): 1 log points, error handler: false, network logging handler: false
+16:12:31.195 info buildHook-14564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:12:31.210 info buildHook-14564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:12:31.211 info buildHook-14564 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+16:12:31.211 info buildHook-14564 running tools: vite
+16:12:31.215 info buildHook-14564 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+16:12:31.215 info buildHook-14564 running tools: vite
+16:12:33.530 info buildHook-14564 file processed (stat): 0 log points, error handler: true, network logging handler: true
+16:12:50.023 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61895 }
+16:12:50.039 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61895 }
+16:23:22.961 info host client disconnected: runtimeHook 1001
+16:23:22.962 info host client disconnected: runtimeHook
+16:23:22.962 info host client disconnected: runtimeHook 1001
+16:23:22.962 info host client disconnected: runtimeHook
+16:23:23.022 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61895 }
+16:23:23.034 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61895 }
+16:27:07.389 info host client disconnected: runtimeHook 1001
+16:27:07.389 info host client disconnected: runtimeHook
+16:27:07.390 info host client disconnected: runtimeHook 1001
+16:27:07.390 info host client disconnected: runtimeHook
+16:27:33.517 info buildHook-10564 installing build hook for webpack at c:\users\dell\desktop\media\frontend, node v20.15.1
+16:27:33.543 info buildHook-10564 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+16:27:33.543 info buildHook-10564 running tools: webpack
+16:27:33.557 info buildHook-10564 installing fs interceptor
+16:27:39.349 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:27:40.184 info buildHook-10564 build hook already installed
+16:27:41.346 info buildHook-10564 build hook already installed
+16:27:47.900 info buildHook-10564 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+16:27:47.901 info buildHook-10564 running tools: webpack
+16:27:47.909 info buildHook-10564 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+16:27:47.909 info buildHook-10564 running tools: webpack
+16:27:48.394 info buildHook-10564 file processed (stat): 0 log points, error handler: true, network logging handler: true
+16:28:08.652 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:28:08.670 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:30:23.947 info extension stopping host
+16:30:23.972 info host removing cache folder: 7725779196e13d239d92fa80dee09836
+16:30:25.017 info buildHook-14564 client disconnected: 1006 
+16:30:25.018 info buildHook-14564 disconnected from host: 61895
+16:30:25.018 info buildHook-14564 disconnected from all hosts
+16:33:32.741 info buildHook-10564 file processed (stat): 3 log points, error handler: false, network logging handler: false
+16:33:32.777 info buildHook-10564 file processed (stat): 2 log points, error handler: false, network logging handler: false
+16:36:47.191 info buildHook-10564 file processed (stat): 0 log points, error handler: true, network logging handler: true
+16:36:47.720 info host client disconnected: runtimeHook 1001
+16:36:47.720 info host client disconnected: runtimeHook
+16:36:47.721 info host client disconnected: runtimeHook 1001
+16:36:47.721 info host client disconnected: runtimeHook
+16:36:47.750 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:36:47.763 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:37:08.468 info buildHook-10564 file processed (stat): 0 log points, error handler: true, network logging handler: true
+16:37:08.910 info host client disconnected: runtimeHook 1001
+16:37:08.910 info host client disconnected: runtimeHook
+16:37:08.911 info host client disconnected: runtimeHook 1001
+16:37:08.911 info host client disconnected: runtimeHook
+16:37:08.998 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:37:09.012 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:38:38.415 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:40:34.713 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:41:42.821 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:42:48.004 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:43:15.902 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:43:29.627 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:44:06.857 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:44:10.383 info host client disconnected: runtimeHook 1001
+16:44:10.384 info host client disconnected: runtimeHook
+16:44:10.385 info host client disconnected: runtimeHook 1001
+16:44:10.385 info host client disconnected: runtimeHook
+16:44:10.419 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:44:10.431 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:44:35.777 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:44:42.753 info host client disconnected: runtimeHook 1001
+16:44:42.754 info host client disconnected: runtimeHook
+16:44:42.755 info host client disconnected: runtimeHook 1001
+16:44:42.756 info host client disconnected: runtimeHook
+16:44:42.798 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:44:42.810 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:45:44.681 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:45:46.350 info host client disconnected: runtimeHook 1001
+16:45:46.351 info host client disconnected: runtimeHook
+16:45:46.355 info host client disconnected: runtimeHook 1001
+16:45:46.355 info host client disconnected: runtimeHook
+16:45:46.466 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:45:46.574 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:48:08.962 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:48:12.993 info host client disconnected: runtimeHook 1001
+16:48:12.993 info host client disconnected: runtimeHook
+16:48:12.994 info host client disconnected: runtimeHook 1001
+16:48:12.994 info host client disconnected: runtimeHook
+16:48:13.020 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:48:13.035 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:48:37.926 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:48:57.221 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:49:12.203 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:49:33.684 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:51:01.711 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:51:53.881 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:51:59.246 info host client disconnected: runtimeHook 1001
+16:51:59.246 info host client disconnected: runtimeHook
+16:51:59.247 info host client disconnected: runtimeHook 1001
+16:51:59.247 info host client disconnected: runtimeHook
+16:51:59.277 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:51:59.291 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:52:13.601 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:54:12.451 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:54:20.061 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:54:41.752 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:55:57.730 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:56:16.369 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:56:28.192 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:56:42.617 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:57:25.769 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:57:41.803 info host client disconnected: runtimeHook 1001
+16:57:41.804 info host client disconnected: runtimeHook
+16:57:41.804 info host client disconnected: runtimeHook 1001
+16:57:41.804 info host client disconnected: runtimeHook
+16:57:41.833 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:57:41.847 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+16:57:58.554 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+16:58:54.875 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:02:04.902 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:02:05.115 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:02:05.125 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:05:12.606 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:06:26.457 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:08:13.656 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:08:57.404 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:09:33.124 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:10:11.304 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:11:21.613 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:11:48.372 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:12:31.227 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:12:49.331 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:13:41.992 info buildHook-10564 file processed (stat): 0 log points, error handler: true, network logging handler: true
+17:13:44.796 info host scheduling tools patching
+17:13:46.820 info host looking for tools to patch
+17:13:49.361 info host found 7 tool file(s) to patch
+17:13:49.373 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\index.js
+17:13:49.374 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\webpack.js
+17:13:49.375 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+17:13:49.378 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest\bin\jest.js
+17:13:49.379 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest-runner\build\testWorker.js
+17:13:49.547 info host Host's startup and patch time: 14109626 ms
+17:15:55.990 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:19:00.977 info buildHook-10564 file processed (stat): 3 log points, error handler: false, network logging handler: false
+17:22:29.221 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:25:04.060 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:27:45.325 info buildHook-10564 file processed (stat): 0 log points, error handler: false, network logging handler: false
+17:28:50.381 info buildHook-10564 file processed (stat): 1 log points, error handler: false, network logging handler: false
+17:29:03.428 info host client disconnected: runtimeHook 1001
+17:29:03.428 info host client disconnected: runtimeHook
+17:29:03.431 info host client disconnected: runtimeHook 1001
+17:29:03.431 info host client disconnected: runtimeHook
+17:29:03.481 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+17:29:03.494 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+17:29:50.501 info buildHook-10564 file processed (stat): 1 log points, error handler: false, network logging handler: false
+17:30:08.948 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+17:59:58.245 info host client disconnected: buildHook 1006
+17:59:58.245 info host client disconnected: buildHook 1006, has clients false
+17:59:58.448 info extension stopping host
+17:59:58.475 info host removing cache folder: dc45149ea9f5563cf7e93f40f4cdfda7
+17:59:58.479 ERR! host failed to delete cache folder ENOTEMPTY: directory not empty, rmdir 'C:\Users\Dell\.console-ninja\.cache\dc45149ea9f5563cf7e93f40f4cdfda7'
+17:59:58.482 WARN host unable to revert access and modified time for file c:\users\dell\desktop\media\backend\index.js
+17:59:58.482 WARN host unable to revert access and modified time for file c:\users\dell\desktop\media\backend\routes\media.js
+17:59:58.483 WARN host unable to revert access and modified time for file c:\users\dell\desktop\media\backend\controllers\mediacontroller.js
+17:59:58.576 info extension client disconnected: 1006 
+18:01:15.158 info extension stopping host
+18:01:17.534 info host ------------ starting ------------
+18:01:17.563 info host removing cache folder: dc45149ea9f5563cf7e93f40f4cdfda7
+18:01:17.967 info extension host process output: port:[59127]
+18:01:17.968 info extension 
+18:01:18.246 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+18:01:18.909 info host worker Starting Host Worker...
+18:01:22.001 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+18:01:23.239 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\Dell\\Desktop\\media\\frontend\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\frontend\\src\\components\\UploadForm.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\frontend\\src\\config\\constants.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\backend\\controllers\\mediaController.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\backend\\routes\\media.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\frontend\\src\\components\\UploadList.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723395675192}
+18:01:23.296 info host starting tools discovery and integration
+18:01:23.312 info host looking for tools to patch
+18:01:24.734 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+18:01:24.818 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+18:01:25.281 info host found 7 tool file(s) to patch
+18:01:25.289 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\index.js
+18:01:25.290 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\webpack.js
+18:01:25.290 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+18:01:25.293 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest\bin\jest.js
+18:01:25.293 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest-runner\build\testWorker.js
+18:01:25.465 info host Host's startup and patch time: 10272 ms
+18:01:25.465 info host completed tools discovery and integration
+18:03:29.542 info extension stopping host
+18:03:29.552 ERR! extension error processing message: {
+18:03:29.552 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+18:03:29.552 ERR! extension   args: [],
+18:03:29.552 ERR! extension   sequenceNumber: 0
+18:03:29.552 ERR! extension }, Canceled: Canceled
+18:03:29.570 info host removing cache folder: 5e66c2966bee0a79484a56e7af058999
+18:03:29.617 info extension client disconnected: 1006 
+18:04:00.999 info extension stopping host
+18:04:02.364 info host ------------ starting ------------
+18:04:02.502 info extension host process output: port:[61653]
+18:04:02.502 info extension 
+18:04:02.534 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61653 }
+18:04:03.167 info host worker Starting Host Worker...
+18:04:05.647 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723395841003}
+18:04:05.711 info host starting tools discovery and integration
+18:04:05.735 info host looking for tools to patch
+18:04:05.760 info host found 0 tool file(s) to patch
+18:04:05.783 info host completed tools discovery and integration
+18:05:11.856 ERR! host uncaught exception: No clients connected
+18:05:20.004 info host scheduling tools patching
+18:05:22.009 info host looking for tools to patch
+18:05:22.070 info host found 0 tool file(s) to patch
+18:05:50.990 info host scheduling tools patching
+18:05:52.997 info host looking for tools to patch
+18:05:53.069 info host found 0 tool file(s) to patch
+18:08:26.061 info host scheduling tools patching
+18:08:28.070 info host looking for tools to patch
+18:08:28.112 info host found 0 tool file(s) to patch
+18:08:44.204 ERR! host uncaught exception: No clients connected
+18:10:03.079 ERR! host uncaught exception: No clients connected
+18:17:25.901 ERR! host uncaught exception: No clients connected
+18:17:40.551 ERR! host uncaught exception: No clients connected
+18:17:58.846 ERR! host uncaught exception: No clients connected
+19:50:09.253 info extension stopping host
+19:50:09.281 info host removing cache folder: 97cddb1e4de8f34cb8133cced8ee8df9
+19:50:21.295 info extension stopping host
+19:50:23.115 info host ------------ starting ------------
+19:50:23.292 info extension host process output: port:[59127]
+19:50:23.292 info extension 
+19:50:23.779 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+19:50:23.803 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+19:50:23.962 info host worker Starting Host Worker...
+19:50:24.384 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+19:50:26.101 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+19:50:26.165 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\Dell\\Desktop\\media\\frontend\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\frontend\\src\\components\\UploadForm.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\frontend\\src\\config\\constants.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\backend\\controllers\\mediaController.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\backend\\routes\\media.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\media\\frontend\\src\\components\\UploadList.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723402221324}
+19:50:26.239 info host starting tools discovery and integration
+19:50:26.270 info host looking for tools to patch
+19:50:27.796 info host found 7 tool file(s) to patch
+19:50:27.805 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\index.js
+19:50:27.806 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\webpack.js
+19:50:27.807 info host patching c:\users\dell\desktop\media\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+19:50:27.809 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest\bin\jest.js
+19:50:27.810 info host patching c:\users\dell\desktop\media\frontend\node_modules\jest-runner\build\testWorker.js
+19:50:27.927 info host Host's startup and patch time: 6603 ms
+19:50:27.928 info host completed tools discovery and integration
+19:50:57.593 info buildHook-9208 installing build hook for webpack at c:\users\dell\desktop\media\frontend, node v20.15.1
+19:50:57.612 info buildHook-9208 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+19:50:57.612 info buildHook-9208 running tools: webpack
+19:50:57.619 info buildHook-9208 installing fs interceptor
+19:51:01.692 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+19:51:01.701 ERR! host unable to set access and modified time for file c:\users\dell\desktop\media\backend\controllers\mediacontroller.js
+19:51:01.701 ERR! host unable to set access and modified time for file c:\users\dell\desktop\media\backend\routes\media.js
+19:51:01.751 info buildHook-9208 file processed (stat): 1 log points, error handler: false, network logging handler: false
+19:51:01.764 info buildHook-9208 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:51:01.768 info buildHook-9208 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:51:01.773 info buildHook-9208 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:51:01.773 info buildHook-9208 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+19:51:01.774 info buildHook-9208 running tools: webpack
+19:51:01.784 info buildHook-9208 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:51:01.788 info buildHook-9208 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+19:51:01.788 info buildHook-9208 running tools: webpack
+19:51:02.417 info buildHook-9208 build hook already installed
+19:51:03.240 info buildHook-9208 build hook already installed
+19:51:06.605 info buildHook-9208 file processed (stat): 0 log points, error handler: true, network logging handler: true
+19:51:31.175 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+19:51:31.205 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+19:51:31.213 info host client disconnected: runtimeHook 1001
+19:51:31.213 info host client disconnected: runtimeHook
+19:51:31.218 info host client disconnected: runtimeHook 1001
+19:51:31.219 info host client disconnected: runtimeHook
+19:51:31.219 info host client disconnected: runtimeHook 1001
+19:51:31.219 info host client disconnected: runtimeHook
+19:51:31.387 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+19:51:31.402 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59127 }
+19:51:49.319 info buildHook-9208 file processed (stat): 1 log points, error handler: false, network logging handler: false
+19:52:13.891 info extension stopping host
+19:52:13.913 ERR! extension error processing message: {
+19:52:13.913 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+19:52:13.913 ERR! extension   args: [],
+19:52:13.913 ERR! extension   sequenceNumber: 0
+19:52:13.913 ERR! extension }, Canceled: Canceled
+19:52:13.962 info host removing cache folder: a04b633b83ea5c1d446f4f6dcf5c706e
+19:52:13.968 WARN host unable to revert access and modified time for file c:\users\dell\desktop\media\frontend\src\components\uploadform.jsx
+19:52:20.866 info extension stopping host
+19:52:21.922 info host ------------ starting ------------
+19:52:22.014 info extension host process output: port:[61895]
+19:52:22.014 info extension 
+19:52:22.046 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61895 }
+19:52:22.683 info host worker Starting Host Worker...
+19:52:22.695 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\dell\\desktop\\immobilier\\api\\index.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\profile.jsx","autoLogPoints":[{"range":{"startLine":212,"endLine":212,"startColumn":0,"endColumn":0}}],"reason":"autoLogPoints"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\signup.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\signin.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\home.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\createlisting.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\components\\contact.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\components\\oauth.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\components\\updatelisting.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\api\\controllers\\listing.controller.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\api\\controllers\\auth.controller.js","reason":"search"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\pages\\Signin.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\firebase.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\components\\Contact.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\components\\Header.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723402340874}
+19:52:22.777 info host starting tools discovery and integration
+19:52:22.809 info host looking for tools to patch
+19:52:24.563 info host found 2 tool file(s) to patch
+19:52:24.566 info host patching c:\users\dell\desktop\immobilier\client\node_modules\vite\bin\vite.js
+19:52:24.660 info host Host's startup and patch time: 3786 ms
+19:52:24.662 info host completed tools discovery and integration
+19:52:24.716 ERR! host uncaught exception: No clients connected
+19:53:28.495 ERR! host uncaught exception: No clients connected
+19:53:42.076 ERR! host uncaught exception: No clients connected
+19:54:00.830 ERR! host uncaught exception: No clients connected
+23:02:53.061 ERR! host uncaught exception: No clients connected
+23:17:46.839 ERR! host uncaught exception: No clients connected
+23:17:52.590 info extension stopping host
+23:17:52.614 ERR! extension error processing message: {
+23:17:52.615 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+23:17:52.615 ERR! extension   args: [],
+23:17:52.615 ERR! extension   sequenceNumber: 0
+23:17:52.615 ERR! extension }, Canceled: Canceled
+23:17:52.627 info host removing cache folder: 77a02574dfd838afc0fc8b17f7e1b1ee
+23:17:52.709 info extension client disconnected: 1006 
+07:09:22.382 info extension stopping host
+07:09:23.934 info host ------------ starting ------------
+07:09:24.066 info extension host process output: port:[61895]
+07:09:24.066 info extension 
+07:09:24.102 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61895 }
+07:09:24.760 info host worker Starting Host Worker...
+07:09:28.031 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.339\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\profile.jsx","autoLogPoints":[{"range":{"startLine":207,"endLine":207,"startColumn":0,"endColumn":0}}],"reason":"autoLogPoints"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\pages\\Signin.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\firebase.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\pages\\Profile.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\pages\\Signup.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\components\\Contact.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\components\\Header.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723442962401}
+07:09:28.091 info host starting tools discovery and integration
+07:09:28.225 info host looking for tools to patch
+07:09:32.978 info host found 2 tool file(s) to patch
+07:09:33.014 info host patching c:\users\dell\desktop\immobilier\client\node_modules\vite\bin\vite.js
+07:09:33.142 info host Host's startup and patch time: 10741 ms
+07:09:33.143 info host completed tools discovery and integration
+07:09:33.193 ERR! host uncaught exception: No clients connected
+07:11:02.716 info extension stopping host
+07:11:02.737 ERR! extension error processing message: {
+07:11:02.737 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+07:11:02.737 ERR! extension   args: [],
+07:11:02.737 ERR! extension   sequenceNumber: 0
+07:11:02.737 ERR! extension }, Canceled: Canceled
+07:11:02.751 info host removing cache folder: 6b91ab30060395584b1353fc43c1d35f
+07:11:12.713 info extension stopping host
+07:11:14.126 info host ------------ starting ------------
+07:11:14.215 info extension host process output: port:[50178]
+07:11:14.215 info extension 
+07:11:14.286 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 50178 }
+07:11:15.021 info host worker Starting Host Worker...
+07:11:16.990 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\AuthorPosts.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\Authors.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\CreatePost.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\DeletePost.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\EditPost.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\ErrorPage.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\Home.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\Login.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\Logout.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\PostDetail.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\Register.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\UserProfile.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\index.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\context\\userContext.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\components\\Header.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\components\\Layout.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\components\\Loader.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\components\\PostAuthor.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\components\\PostItem.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\components\\Posts.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\da.ta.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\mes_notes\\client\\src\\pages\\Dashboard.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723443072723}
+07:11:17.054 info host starting tools discovery and integration
+07:11:17.096 info host updating C:\Users\Dell\.console-ninja\.bin\loader.js
+07:11:17.107 info host looking for tools to patch
+07:11:20.188 info host found 7 tool file(s) to patch
+07:11:20.209 info host patching c:\users\dell\desktop\mes_notes\client\node_modules\webpack\lib\index.js
+07:11:20.210 info host patching c:\users\dell\desktop\mes_notes\client\node_modules\webpack\lib\webpack.js
+07:11:20.211 info host patching c:\users\dell\desktop\mes_notes\client\node_modules\webpack\lib\WebpackOptionsApply.js
+07:11:20.216 info host patching c:\users\dell\desktop\mes_notes\client\node_modules\jest\bin\jest.js
+07:11:20.216 info host patching c:\users\dell\desktop\mes_notes\client\node_modules\jest-runner\build\testWorker.js
+07:11:20.325 info host Host's startup and patch time: 7602 ms
+07:11:20.325 info host completed tools discovery and integration
+07:11:20.355 ERR! host uncaught exception: No clients connected
+07:11:52.410 info extension stopping host
+07:11:59.211 info extension stopping host
+07:12:00.181 info host ------------ starting ------------
+07:12:00.242 info extension host process output: port:[55752]
+07:12:00.242 info extension 
+07:12:00.288 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 55752 }
+07:12:01.121 info host worker Starting Host Worker...
+07:12:02.454 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723443119219}
+07:12:02.542 info host starting tools discovery and integration
+07:12:02.595 info host looking for tools to patch
+07:12:04.357 info host found 7 tool file(s) to patch
+07:12:04.374 info host patching c:\users\dell\desktop\notre_project\frontend\node_modules\webpack\lib\index.js
+07:12:04.375 info host patching c:\users\dell\desktop\notre_project\frontend\node_modules\webpack\lib\webpack.js
+07:12:04.376 info host patching c:\users\dell\desktop\notre_project\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+07:12:04.378 info host patching c:\users\dell\desktop\notre_project\frontend\node_modules\jest\bin\jest.js
+07:12:04.378 info host patching c:\users\dell\desktop\notre_project\frontend\node_modules\jest-runner\build\testWorker.js
+07:12:04.472 info host Host's startup and patch time: 5253 ms
+07:12:04.472 info host completed tools discovery and integration
+07:12:27.684 info extension stopping host
+07:12:27.687 ERR! extension error processing message: {
+07:12:27.687 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+07:12:27.687 ERR! extension   args: [],
+07:12:27.687 ERR! extension   sequenceNumber: 0
+07:12:27.687 ERR! extension }, Canceled: Canceled
+07:12:27.707 info host removing cache folder: cccbb2b4df889a91a4cf4a35a43eb23d
+07:12:32.685 info extension stopping host
+07:12:33.670 info host ------------ starting ------------
+07:12:33.746 info extension host process output: port:[62087]
+07:12:33.746 info extension 
+07:12:33.810 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 62087 }
+07:12:34.446 info host worker Starting Host Worker...
+07:12:36.281 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723443152693}
+07:12:36.343 info host starting tools discovery and integration
+07:12:36.379 info host looking for tools to patch
+07:12:36.753 info host found 2 tool file(s) to patch
+07:12:36.776 info host patching c:\users\dell\desktop\notes\myclient\node_modules\vite\bin\vite.js
+07:12:36.876 info host Host's startup and patch time: 4183 ms
+07:12:36.877 info host completed tools discovery and integration
+07:12:54.168 info extension stopping host
+07:12:54.170 ERR! extension error processing message: {
+07:12:54.171 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+07:12:54.171 ERR! extension   args: [],
+07:12:54.171 ERR! extension   sequenceNumber: 0
+07:12:54.171 ERR! extension }, Canceled: Canceled
+07:14:22.288 info extension stopping host
+07:14:23.243 info host ------------ starting ------------
+07:14:23.286 info host removing cache folder: 2e9d4505137bbaf267e7900bf4220a2a
+07:14:23.290 info host removing cache folder: 7ce4d9566b89c87568c3e0b190998d86
+07:14:23.387 info extension host process output: port:[55880]
+07:14:23.387 info extension 
+07:14:23.498 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 55880 }
+07:14:24.092 info host worker Starting Host Worker...
+07:14:26.724 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723443262301}
+07:14:26.788 info host starting tools discovery and integration
+07:14:26.849 info host looking for tools to patch
+07:14:28.875 info host found 7 tool file(s) to patch
+07:14:28.894 info host patching c:\users\dell\desktop\projets\frontend\node_modules\webpack\lib\index.js
+07:14:28.895 info host patching c:\users\dell\desktop\projets\frontend\node_modules\webpack\lib\webpack.js
+07:14:28.896 info host patching c:\users\dell\desktop\projets\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+07:14:28.898 info host patching c:\users\dell\desktop\projets\frontend\node_modules\jest\bin\jest.js
+07:14:28.899 info host patching c:\users\dell\desktop\projets\frontend\node_modules\jest-runner\build\testWorker.js
+07:14:29.036 info host Host's startup and patch time: 6735 ms
+07:14:29.037 info host completed tools discovery and integration
+07:14:55.051 info extension stopping host
+07:15:55.955 info extension stopping host
+07:15:57.595 info host ------------ starting ------------
+07:15:57.632 info host removing cache folder: 003b73059db1355e2a3eb3db8f6ff3c9
+07:15:57.678 info extension host process output: port:[55908]
+07:15:57.678 info extension 
+07:15:57.710 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 55908 }
+07:15:58.395 info host worker Starting Host Worker...
+07:15:59.029 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\dell\\desktop\\blog\\server\\index.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\server\\controllers\\usercontrollers.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\server\\middleware\\authmiddleware.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\server\\controllers\\postcontrollers.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\final_projet\\controllers\\usercontrollers.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\pages\\authorposts.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\pages\\categoryposts.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\final_projet\\controllers\\postcontrollers.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\components\\posts.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\components\\postauthor.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\final_projet\\middleware\\authmiddleware.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\pages\\createpost.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\final_projet\\index.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\pages\\deletepost.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\pages\\editpost.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\pages\\dashboard.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\pages\\userprofile.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\pages\\register.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\blog\\client\\src\\pages\\login.jsx","reason":"search"},{"path":"c:\\Users\\Dell\\Desktop\\blog\\client\\src\\pages\\UserProfile.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\blog\\client\\src\\index.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\blog\\server\\index.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\blog\\client\\src\\pages\\Dashboard.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\blog\\client\\src\\pages\\CreatePost.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\blog\\client\\src\\pages\\Login.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\blog\\server\\controllers\\userControllers.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723443355979}
+07:15:59.097 info host starting tools discovery and integration
+07:15:59.119 info host looking for tools to patch
+07:16:03.683 info host found 7 tool file(s) to patch
+07:16:03.714 info host patching c:\users\dell\desktop\blog\client\node_modules\webpack\lib\index.js
+07:16:03.715 info host patching c:\users\dell\desktop\blog\client\node_modules\webpack\lib\webpack.js
+07:16:03.716 info host patching c:\users\dell\desktop\blog\client\node_modules\webpack\lib\WebpackOptionsApply.js
+07:16:03.719 info host patching c:\users\dell\desktop\blog\client\node_modules\jest\bin\jest.js
+07:16:03.719 info host patching c:\users\dell\desktop\blog\client\node_modules\jest-runner\build\testWorker.js
+07:16:03.803 info host Host's startup and patch time: 7824 ms
+07:16:03.803 info host completed tools discovery and integration
+07:16:03.832 ERR! host uncaught exception: No clients connected
+07:17:04.329 info buildHook-844 installing build hook for webpack at c:\users\dell\desktop\blog\client, node v20.15.1
+07:17:04.357 info buildHook-844 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+07:17:04.357 info buildHook-844 running tools: webpack
+07:17:04.361 info buildHook-844 installing fs interceptor
+07:17:07.524 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 55908 }
+07:17:07.647 info buildHook-844 file processed (stat): 2 log points, error handler: false, network logging handler: false
+07:17:07.794 info buildHook-844 file processed (stat): 7 log points, error handler: false, network logging handler: false
+07:17:07.822 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:07.893 info buildHook-844 file processed (stat): 9 log points, error handler: false, network logging handler: false
+07:17:08.007 info buildHook-844 file processed (stat): 7 log points, error handler: false, network logging handler: false
+07:17:08.047 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.078 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.150 info buildHook-844 file processed (stat): 9 log points, error handler: false, network logging handler: false
+07:17:08.168 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.184 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.202 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.232 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.251 info buildHook-844 file processed (stat): 2 log points, error handler: false, network logging handler: false
+07:17:08.265 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.291 info buildHook-844 file processed (stat): 2 log points, error handler: false, network logging handler: false
+07:17:08.320 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.353 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.372 info buildHook-844 file processed (stat): 2 log points, error handler: false, network logging handler: false
+07:17:08.386 info buildHook-844 file processed (stat): 1 log points, error handler: false, network logging handler: false
+07:17:08.397 info buildHook-844 file processed (stat): 0 log points, error handler: false, network logging handler: false
+07:17:08.398 info buildHook-844 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+07:17:08.398 info buildHook-844 running tools: webpack
+07:17:08.401 info buildHook-844 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+07:17:08.402 info buildHook-844 running tools: webpack
+07:17:09.327 info buildHook-844 build hook already installed
+07:17:10.447 info buildHook-844 build hook already installed
+07:17:13.551 info buildHook-844 file processed (stat): 0 log points, error handler: true, network logging handler: true
+07:19:10.514 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 55908 }
+07:21:30.418 info host client disconnected: runtimeHook 1001
+07:21:30.419 info host client disconnected: runtimeHook
+07:22:04.295 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 55908 }
+07:26:52.337 info extension stopping host
+07:26:54.357 info host ------------ starting ------------
+07:26:55.062 info host worker Starting Host Worker...
+07:26:58.742 info extension host process output: port:[61895]
+07:26:58.743 info extension 
+07:26:58.961 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61895 }
+07:27:00.239 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\signup.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\signin.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\profile.jsx","autoLogPoints":[{"range":{"startLine":207,"endLine":207,"startColumn":0,"endColumn":0}}],"reason":"autoLogPoints"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\home.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\pages\\createlisting.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\components\\updatelisting.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\components\\oauth.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\client\\src\\components\\contact.jsx","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\api\\index.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\api\\controllers\\listing.controller.js","reason":"search"},{"path":"c:\\users\\dell\\desktop\\immobilier\\api\\controllers\\auth.controller.js","reason":"search"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\pages\\Signin.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\firebase.js","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\pages\\Profile.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\pages\\Signup.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\components\\Contact.jsx","reason":"open"},{"path":"c:\\Users\\Dell\\Desktop\\immobilier\\client\\src\\components\\Header.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723444012345}
+07:27:00.351 info host starting tools discovery and integration
+07:27:00.375 info host looking for tools to patch
+07:27:09.433 info host found 2 tool file(s) to patch
+07:27:09.467 info host patching c:\users\dell\desktop\immobilier\client\node_modules\vite\bin\vite.js
+07:27:09.992 info host Host's startup and patch time: 17647 ms
+07:27:09.993 info host completed tools discovery and integration
+07:27:10.044 ERR! host uncaught exception: No clients connected
+07:28:43.883 ERR! host uncaught exception: No clients connected
+07:29:44.752 info extension stopping host
+07:29:45.592 info host ------------ starting ------------
+07:29:45.720 info extension host process output: port:[56445]
+07:29:45.720 info extension 
+07:29:45.753 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 56445 }
+07:29:46.430 info host worker Starting Host Worker...
+07:29:49.016 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\dell\\info\\frontend\\src\\index.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723444184758}
+07:29:49.074 info host starting tools discovery and integration
+07:29:49.128 info host looking for tools to patch
+07:29:50.590 info host found 7 tool file(s) to patch
+07:29:50.612 info host patching c:\users\dell\info\frontend\node_modules\webpack\lib\index.js
+07:29:50.613 info host patching c:\users\dell\info\frontend\node_modules\webpack\lib\webpack.js
+07:29:50.614 info host patching c:\users\dell\info\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+07:29:50.616 info host patching c:\users\dell\info\frontend\node_modules\jest\bin\jest.js
+07:29:50.617 info host patching c:\users\dell\info\frontend\node_modules\jest-runner\build\testWorker.js
+07:29:50.759 info host Host's startup and patch time: 6000 ms
+07:29:50.759 info host completed tools discovery and integration
+07:30:44.857 ERR! host uncaught exception: No clients connected
+07:32:25.442 info host scheduling tools patching
+07:32:27.448 info host looking for tools to patch
+07:32:28.087 info host found 7 tool file(s) to patch
+07:32:28.091 info host patching c:\users\dell\info\frontend\node_modules\webpack\lib\index.js
+07:32:28.092 info host patching c:\users\dell\info\frontend\node_modules\webpack\lib\webpack.js
+07:32:28.092 info host patching c:\users\dell\info\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+07:32:28.094 info host patching c:\users\dell\info\frontend\node_modules\jest\bin\jest.js
+07:32:28.094 info host patching c:\users\dell\info\frontend\node_modules\jest-runner\build\testWorker.js
+07:32:28.202 info host Host's startup and patch time: 163444 ms
+07:34:43.118 info buildHook-10384 installing build hook for webpack at c:\users\dell\info\frontend, node v20.15.1
+07:34:43.129 info buildHook-10384 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+07:34:43.129 info buildHook-10384 running tools: webpack
+07:34:43.142 info buildHook-10384 installing fs interceptor
+07:34:46.052 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 56445 }
+07:34:46.080 info buildHook-10384 file processed (stat): 0 log points, error handler: false, network logging handler: false
+07:34:46.081 info buildHook-10384 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+07:34:46.081 info buildHook-10384 running tools: webpack
+07:34:46.086 info buildHook-10384 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+07:34:46.087 info buildHook-10384 running tools: webpack
+07:34:53.921 info buildHook-10384 build hook already installed
+07:34:54.571 info buildHook-10384 build hook already installed
+07:34:57.456 info buildHook-10384 file processed (stat): 0 log points, error handler: true, network logging handler: true
+07:35:09.007 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 56445 }
+07:35:09.022 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 56445 }
+07:45:43.516 info extension stopping host
+07:45:43.541 info host removing cache folder: fa45188a88552c8e0fc245bbb7489164
+07:45:43.545 WARN host unable to revert access and modified time for file c:\users\dell\info\backend\index.js
+07:46:08.328 info extension stopping host
+07:46:09.958 info host ------------ starting ------------
+07:46:10.413 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 56445 }
+07:46:10.562 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 56445 }
+07:46:10.865 info host worker Starting Host Worker...
+07:46:11.173 info extension host process output: port:[56445]
+07:46:11.174 info extension 
+07:46:11.437 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 56445 }
+07:46:17.364 info host starting host: {"extensionFolder":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340","runtimeHookFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Dell\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.340\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\Dell\\info\\backend\\index.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Kone","192.168.1.107"],"host":"127.0.0.1","forcedStart":false,"startTime":1723445168334}
+07:46:17.427 info host starting tools discovery and integration
+07:46:17.450 info host looking for tools to patch
+07:46:20.709 info host found 7 tool file(s) to patch
+07:46:20.747 info host patching c:\users\dell\info\frontend\node_modules\webpack\lib\index.js
+07:46:20.748 info host patching c:\users\dell\info\frontend\node_modules\webpack\lib\webpack.js
+07:46:20.749 info host patching c:\users\dell\info\frontend\node_modules\webpack\lib\WebpackOptionsApply.js
+07:46:20.753 info host patching c:\users\dell\info\frontend\node_modules\jest\bin\jest.js
+07:46:20.753 info host patching c:\users\dell\info\frontend\node_modules\jest-runner\build\testWorker.js
+07:46:20.947 info host Host's startup and patch time: 12613 ms
+07:46:20.947 info host completed tools discovery and integration

@@ -1,0 +1,4 @@
+newUser:'Utilisateur  bah@gmail.com a bien été  ajouté avec succès'
+newUser: 'Utilisateur  bah@gmail.com a bien été  ajouté avec succès'
+newUser:'Utilisateur  paul@gmail.com a bien été  ajouté avec succès'
+newUser: 'Utilisateur  paul@gmail.com a bien été  ajouté avec succès'
